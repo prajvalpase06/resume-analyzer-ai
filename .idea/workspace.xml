@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222f69a5-1fcc-4522-b9d6-68880d0e070f" name="Changes" comment="Home page and resume cards">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/ResumeCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/ResumeCard.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
-    </list>
+    <list default="true" id="222f69a5-1fcc-4522-b9d6-68880d0e070f" name="Changes" comment="ResumeCards completed and added more mock resumes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771494583042</updated>
-      <workItem from="1771494584001" duration="9702000" />
+      <workItem from="1771494584001" duration="10393000" />
     </task>
     <task id="LOCAL-00001" summary="Home page and resume cards">
       <option name="closed" value="true" />
@@ -82,7 +77,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771499375750</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ResumeCards completed and added more mock resumes">
+      <option name="closed" value="true" />
+      <created>1771507053158</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771507053158</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Home page and resume cards" />
-    <option name="LAST_COMMIT_MESSAGE" value="Home page and resume cards" />
+    <MESSAGE value="ResumeCards completed and added more mock resumes" />
+    <option name="LAST_COMMIT_MESSAGE" value="ResumeCards completed and added more mock resumes" />
   </component>
 </project>
