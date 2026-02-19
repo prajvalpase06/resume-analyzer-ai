@@ -22,16 +22,15 @@ export default function Home() {
         <h1>Welcome to CVision!</h1>
         <h2>Lets analyse your resume!</h2>
       </div>
+      {
+        resumes.length>0 && (
+              <div className="resumes-section">
+                {resumes.map((resume) => (
+                    <ResumeCard key={resume.id} resume={resume}></ResumeCard>
+                ))}
+              </div>
+          )
+      }
     </section>
-
-    {
-      resumes.length>0 && (
-            <div className="resumes-section">
-              {resumes.map((resume) => (
-                  <ResumeCard key={resume.id} resume={resume}></ResumeCard>
-              ))}
-            </div>
-        )
-    }
   </main>
 }
